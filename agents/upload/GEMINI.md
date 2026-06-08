@@ -1,0 +1,1 @@
+To fix the `COPY failed: forbidden path outside the build context` error when deploying the upload service, create an empty `.gcloudignore` file in the `agents/upload/` directory. This allows the `Dockerfile` to access files outside of its immediate directory, specifically `gcp_client.py` located in the parent directory.

@@ -1,0 +1,16 @@
+year,quarter,product,segment,list_price,discount_pct,final_price,currency,approved_by,notes
+2018,Q3,Enterprise Suite,Enterprise,72000,25,54000,USD,CFO Mark Lawson,Executive approval required
+2018,Q3,Enterprise Suite,SMB,200000,12,176000,USD,CFO Mark Lawson,Standard pricing
+2018,Q3,Enterprise Suite,Mid-Market,200000,18,164000,USD,VP Sales Rita Gomez,Executive approval required
+2018,Q3,Pro Analytics,Enterprise,250000,5,237500,USD,Finance Director Tom Blake,Standard pricing
+2018,Q3,Pro Analytics,SMB,25000,20,20000,USD,Finance Director Tom Blake,Competitive match
+2018,Q3,Pro Analytics,Mid-Market,48000,12,42240,USD,CFO Mark Lawson,Volume discount applied
+2018,Q3,Cloud Storage Pack,Enterprise,250000,10,225000,USD,VP Sales Rita Gomez,Volume discount applied
+2018,Q3,Cloud Storage Pack,SMB,120000,25,90000,USD,CFO Mark Lawson,Standard pricing
+2018,Q3,Cloud Storage Pack,Mid-Market,250000,8,230000,USD,CFO Mark Lawson,One-time exception
+2018,Q3,Security Shield,Enterprise,25000,8,23000,USD,CFO Mark Lawson,Volume discount applied
+2018,Q3,Security Shield,SMB,200000,25,150000,USD,VP Sales Rita Gomez,Volume discount applied
+2018,Q3,Security Shield,Mid-Market,200000,5,190000,USD,CFO Mark Lawson,Executive approval required
+2018,Q3,DataSync Pro,Enterprise,25000,20,20000,USD,VP Sales Rita Gomez,Executive approval required
+2018,Q3,DataSync Pro,SMB,120000,20,96000,USD,Finance Director Tom Blake,One-time exception
+2018,Q3,DataSync Pro,Mid-Market,250000,10,225000,USD,CFO Mark Lawson,Competitive match
