@@ -2,7 +2,7 @@
 
 > *GCP-native 5-agent AI pipeline that transforms 20 years of enterprise dark data into a queryable knowledge graph — targeting **$3–5M in recoverable pricing intelligence**.*
 
-Built solo for the **Gemini CLI Buildathon 2025** · **Project:** `the-orchestrators` · **Region:** `us-central1`
+Built for the **Gemini CLI Buildathon 2025** · **Project:** `the-orchestrators` · **Region:** `us-central1`
 
 ---
 
